@@ -1,0 +1,324 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		650AB0401BAC4AB600EA80D3 /* SongtreeBundle.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 650AB03E1BAC4AB600EA80D3 /* SongtreeBundle.bundle */; };
+		650AB0411BAC4AB600EA80D3 /* SongtreeSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 650AB03F1BAC4AB600EA80D3 /* SongtreeSDK.framework */; };
+		65854D5C1BAC49890005786D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 65854D5B1BAC49890005786D /* main.m */; };
+		65854D5F1BAC49890005786D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 65854D5E1BAC49890005786D /* AppDelegate.m */; };
+		65854D621BAC49890005786D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 65854D611BAC49890005786D /* ViewController.m */; };
+		65854D651BAC49890005786D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65854D631BAC49890005786D /* Main.storyboard */; };
+		65854D671BAC49890005786D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65854D661BAC49890005786D /* Assets.xcassets */; };
+		65854D6A1BAC49890005786D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 65854D681BAC49890005786D /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		650AB03E1BAC4AB600EA80D3 /* SongtreeBundle.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = SongtreeBundle.bundle; sourceTree = "<group>"; };
+		650AB03F1BAC4AB600EA80D3 /* SongtreeSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SongtreeSDK.framework; sourceTree = "<group>"; };
+		65854D571BAC49890005786D /* SongtreeCocoaPods.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SongtreeCocoaPods.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		65854D5B1BAC49890005786D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		65854D5D1BAC49890005786D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		65854D5E1BAC49890005786D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		65854D601BAC49890005786D /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		65854D611BAC49890005786D /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		65854D641BAC49890005786D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		65854D661BAC49890005786D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		65854D691BAC49890005786D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		65854D6B1BAC49890005786D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		65854D541BAC49890005786D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				650AB0411BAC4AB600EA80D3 /* SongtreeSDK.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		65854D4E1BAC49890005786D = {
+			isa = PBXGroup;
+			children = (
+				65854D591BAC49890005786D /* SongtreeCocoaPods */,
+				65854D581BAC49890005786D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		65854D581BAC49890005786D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				65854D571BAC49890005786D /* SongtreeCocoaPods.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		65854D591BAC49890005786D /* SongtreeCocoaPods */ = {
+			isa = PBXGroup;
+			children = (
+				650AB03E1BAC4AB600EA80D3 /* SongtreeBundle.bundle */,
+				650AB03F1BAC4AB600EA80D3 /* SongtreeSDK.framework */,
+				65854D5D1BAC49890005786D /* AppDelegate.h */,
+				65854D5E1BAC49890005786D /* AppDelegate.m */,
+				65854D601BAC49890005786D /* ViewController.h */,
+				65854D611BAC49890005786D /* ViewController.m */,
+				65854D631BAC49890005786D /* Main.storyboard */,
+				65854D661BAC49890005786D /* Assets.xcassets */,
+				65854D681BAC49890005786D /* LaunchScreen.storyboard */,
+				65854D6B1BAC49890005786D /* Info.plist */,
+				65854D5A1BAC49890005786D /* Supporting Files */,
+			);
+			path = SongtreeCocoaPods;
+			sourceTree = "<group>";
+		};
+		65854D5A1BAC49890005786D /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				65854D5B1BAC49890005786D /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		65854D561BAC49890005786D /* SongtreeCocoaPods */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 65854D6E1BAC49890005786D /* Build configuration list for PBXNativeTarget "SongtreeCocoaPods" */;
+			buildPhases = (
+				65854D531BAC49890005786D /* Sources */,
+				65854D541BAC49890005786D /* Frameworks */,
+				65854D551BAC49890005786D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SongtreeCocoaPods;
+			productName = SongtreeCocoaPods;
+			productReference = 65854D571BAC49890005786D /* SongtreeCocoaPods.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		65854D4F1BAC49890005786D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = nTrack;
+				TargetAttributes = {
+					65854D561BAC49890005786D = {
+						CreatedOnToolsVersion = 7.1;
+					};
+				};
+			};
+			buildConfigurationList = 65854D521BAC49890005786D /* Build configuration list for PBXProject "SongtreeCocoaPods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 65854D4E1BAC49890005786D;
+			productRefGroup = 65854D581BAC49890005786D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				65854D561BAC49890005786D /* SongtreeCocoaPods */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		65854D551BAC49890005786D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65854D6A1BAC49890005786D /* LaunchScreen.storyboard in Resources */,
+				65854D671BAC49890005786D /* Assets.xcassets in Resources */,
+				650AB0401BAC4AB600EA80D3 /* SongtreeBundle.bundle in Resources */,
+				65854D651BAC49890005786D /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		65854D531BAC49890005786D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				65854D621BAC49890005786D /* ViewController.m in Sources */,
+				65854D5F1BAC49890005786D /* AppDelegate.m in Sources */,
+				65854D5C1BAC49890005786D /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		65854D631BAC49890005786D /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				65854D641BAC49890005786D /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		65854D681BAC49890005786D /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				65854D691BAC49890005786D /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		65854D6C1BAC49890005786D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		65854D6D1BAC49890005786D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		65854D6F1BAC49890005786D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/SongtreeCocoaPods",
+				);
+				INFOPLIST_FILE = SongtreeCocoaPods/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ntrack.SongtreeCocoaPods.SongtreeCocoaPods;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		65854D701BAC49890005786D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/SongtreeCocoaPods",
+				);
+				INFOPLIST_FILE = SongtreeCocoaPods/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ntrack.SongtreeCocoaPods.SongtreeCocoaPods;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		65854D521BAC49890005786D /* Build configuration list for PBXProject "SongtreeCocoaPods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				65854D6C1BAC49890005786D /* Debug */,
+				65854D6D1BAC49890005786D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		65854D6E1BAC49890005786D /* Build configuration list for PBXNativeTarget "SongtreeCocoaPods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				65854D6F1BAC49890005786D /* Debug */,
+				65854D701BAC49890005786D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 65854D4F1BAC49890005786D /* Project object */;
+}

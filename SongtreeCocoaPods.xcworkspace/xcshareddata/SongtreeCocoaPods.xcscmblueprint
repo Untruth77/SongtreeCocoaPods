@@ -1,0 +1,49 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6dd90b1d-daea-b741-b7b3-b33e642771fc++6715+++4E05CF3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "6dd90b1d-daea-b741-b7b3-b33e642771fc++6715+++CC0A3C7" : {
+      "DVTSourceControlWorkingCopyRepositoryBranchesLocationKey" : "branches",
+      "DVTSourceControlWorkingCopyRepositoryTagsLocationKey" : "tags",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "trunk"
+    },
+    "6dd90b1d-daea-b741-b7b3-b33e642771fc++6715+++502A199" : {
+      "DVTSourceControlWorkingCopyRepositoryBranchesLocationKey" : "branches",
+      "DVTSourceControlWorkingCopyRepositoryTagsLocationKey" : "tags",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "trunk"
+    },
+    "6dd90b1d-daea-b741-b7b3-b33e642771fc++6715+++4E05CF3" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6dd90b1d-daea-b741-b7b3-b33e642771fc++6715+++CC0A3C7" : 0,
+    "6dd90b1d-daea-b741-b7b3-b33e642771fc++6715+++502A199" : 0,
+    "6dd90b1d-daea-b741-b7b3-b33e642771fc++6715+++4E05CF3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D8D29058-9324-4BB1-9665-B5C2D6B92AF6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6dd90b1d-daea-b741-b7b3-b33e642771fc++6715+++CC0A3C7" : "",
+    "6dd90b1d-daea-b741-b7b3-b33e642771fc++6715+++502A199" : "",
+    "6dd90b1d-daea-b741-b7b3-b33e642771fc++6715+++4E05CF3" : "trunk\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SongtreeCocoaPods",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "n-Track_EX\/iOS\/SongtreeCocoaPods\/SongtreeCocoaPods.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/source.ntrack.com\/ntrack",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6dd90b1d-daea-b741-b7b3-b33e642771fc++6715+++4E05CF3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/source.ntrack.com\/ntrack",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6dd90b1d-daea-b741-b7b3-b33e642771fc++6715+++502A199"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/ntrack.com\/ntrack",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6dd90b1d-daea-b741-b7b3-b33e642771fc++6715+++CC0A3C7"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6dd90b1d-daea-b741-b7b3-b33e642771fc++6715",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "6dd90b1d-daea-b741-b7b3-b33e642771fc++6715" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6dd90b1d-daea-b741-b7b3-b33e642771fc++6715" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8B286A83-5969-45ED-8A60-BF631BBAEEC5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6dd90b1d-daea-b741-b7b3-b33e642771fc++6715" : "trunk\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SongtreeCocoaPods",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "n-Track_EX\/iOS\/SongtreeCocoaPods\/SongtreeCocoaPods.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/source.ntrack.com\/ntrack",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6dd90b1d-daea-b741-b7b3-b33e642771fc++6715"
+    }
+  ]
+}
